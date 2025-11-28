@@ -1,0 +1,32 @@
+/* span{
+    display: block;
+}
+
+div{ 
+    display: inline;
+} */
+
+
+
+.box{
+    display: inline-block;
+    height: 250px; 
+    width: 200px;
+    margin: 10px;
+    
+}
+
+.box1{
+    text-align: center;
+    background-color: darkgoldenrod;
+    
+
+}
+.box2{
+    background-color: brown;
+    text-align: center;
+}
+.box3{
+    background-color: cadetblue;
+    text-align: center;
+}

@@ -1,0 +1,46 @@
+/* p{
+    color:red;
+    font-size:25px;
+} */
+
+/* .jk{
+    color:blue;
+}
+
+#jk1{
+    color:brown;
+} */
+
+/* div{
+    height:150px;
+    width:500px;
+    background-color: white;
+    text-align:center;
+    align-content:center;
+    padding:5px;
+    margin:10px 200px;
+    border: 5px solid red;} */
+
+
+
+
+div{
+    height:100px;
+    width:500px;
+    background-color: white;
+    text-align:center;
+    align-content:center;
+    padding:5px;
+    margin:10px 200px;
+    border: 5px solid black;}
+
+
+h2{ 
+    color:purple;
+}
+
+.jk{ 
+    background-color:yellow;
+    border:20px solid purple;
+}
+
